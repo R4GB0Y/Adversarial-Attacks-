@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T10:41:01.298Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="G_mAUUIfTRgXYFkPs2iH" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T19:57:41.780Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="vwO0NduxGSUImhfmHt-J" version="23.1.5" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="9243" dy="3036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7172.5" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -40,23 +40,32 @@
         <mxCell id="303ed1de8c2c98b4-6" value="ON GENERATIVE AI MODELS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="330" y="440" width="275" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="303ed1de8c2c98b4-7" target="tsUmsVvnLOJx5vo8wTvV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="303ed1de8c2c98b4-7" target="tsUmsVvnLOJx5vo8wTvV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="303ed1de8c2c98b4-7" target="tsUmsVvnLOJx5vo8wTvV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="303ed1de8c2c98b4-7" value="POISONING ATTACKS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-2550" y="650" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-27" value="MOMENTUM ITERATIVE GRADIENT SIGN METHOD (MIM)" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-2040" y="2330" width="125" height="110" as="geometry" />
+          <mxGeometry x="-1940" y="2327.5" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-37" value="&lt;span&gt;UNIVERSAL ADVERSARIAL PERTURBATION (UAP&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-1525" y="2330" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-49" value="FAST GRADIENT METHOD ATTACK (FGSM)" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-2390" y="2330" width="125" height="110" as="geometry" />
+          <mxGeometry x="-2290" y="2327.5" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-50" value="&lt;span&gt;GRADIENT ESTIMATION ATTACKS&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-1745" y="2330" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="303ed1de8c2c98b4-59" value="&lt;span&gt;CYCLICAL ADVERSARIAL ATTACKS (CA)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-2220" y="2330" width="125" height="110" as="geometry" />
+          <mxGeometry x="-2120" y="2327.5" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x_1_iU8MJ9YoaZBr5OPV-1" target="WFDlAAHb3bw9WzpUW1FV-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -100,6 +109,9 @@
         <mxCell id="x_1_iU8MJ9YoaZBr5OPV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x_1_iU8MJ9YoaZBr5OPV-23" target="x_1_iU8MJ9YoaZBr5OPV-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x_1_iU8MJ9YoaZBr5OPV-23" target="tsUmsVvnLOJx5vo8wTvV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="x_1_iU8MJ9YoaZBr5OPV-23" value="ON WHITE-BOX MODELS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-2135" y="1270" width="275" height="40" as="geometry" />
         </mxCell>
@@ -128,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x_1_iU8MJ9YoaZBr5OPV-30" value="GRADIENT-BASED ATTACKS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-2135" y="1839" width="275" height="40" as="geometry" />
+          <mxGeometry x="-2135" y="1830" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x_1_iU8MJ9YoaZBr5OPV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="x_1_iU8MJ9YoaZBr5OPV-31" target="303ed1de8c2c98b4-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -167,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x_1_iU8MJ9YoaZBr5OPV-42" value="&lt;span&gt;PROJECTED GRADIENT DESCENT (PGD)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-2560" y="2330" width="125" height="110" as="geometry" />
+          <mxGeometry x="-2460" y="2327.5" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="x_1_iU8MJ9YoaZBr5OPV-46" value="TRANSFER BIASED BOUNDARY ATTACK" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-1375" y="2330" width="125" height="110" as="geometry" />
@@ -287,22 +299,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-38" value="ON STATIC OBJECTS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="605" y="1980" width="275" height="40" as="geometry" />
+          <mxGeometry x="385" y="1980" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-39" value="ON MOBILE OBJECTS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="990" y="1980" width="275" height="40" as="geometry" />
+          <mxGeometry x="950" y="1980" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WFDlAAHb3bw9WzpUW1FV-42" target="WFDlAAHb3bw9WzpUW1FV-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-42" value="FACE RECOGNITION" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="140" y="2120" width="275" height="40" as="geometry" />
+          <mxGeometry x="-80" y="2120" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WFDlAAHb3bw9WzpUW1FV-43" target="WFDlAAHb3bw9WzpUW1FV-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-43" value="PERSON IDENTIFICATION" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="451" y="2120" width="275" height="40" as="geometry" />
+          <mxGeometry x="231" y="2120" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WFDlAAHb3bw9WzpUW1FV-45" target="WFDlAAHb3bw9WzpUW1FV-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -311,19 +323,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-45" value="OBJECT IDENTIFICATION" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="739" y="2120" width="275" height="40" as="geometry" />
+          <mxGeometry x="519" y="2120" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-46" value="&lt;div&gt;&amp;nbsp;ATTACKS ON&lt;/div&gt;&lt;div&gt;STATE-OF-THE-ART FACE RECOGNITION USING&amp;nbsp; GLASSES&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="205" y="2327.5" width="145" height="115" as="geometry" />
+          <mxGeometry x="-15" y="2327.5" width="145" height="115" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-47" value="ADVERSARIAL PATCHES FOOL PERSON IDENTIFICATION" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="518.5" y="2327.5" width="140" height="110" as="geometry" />
+          <mxGeometry x="298.5" y="2327.5" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-48" value="ATTACKS ON AN AERIAL IMAGERY OBJECT DETECTOR" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="720" y="2327.5" width="140" height="110" as="geometry" />
+          <mxGeometry x="500" y="2327.5" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-49" value="ATTACKS USING PATCHES ON STOP SIGNS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="910" y="2330" width="140" height="110" as="geometry" />
+          <mxGeometry x="690" y="2330" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-57" value="DOLPHINATTACK: INAUDIBLE VOICE COMMANDS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1421.25" y="2305" width="152.5" height="135" as="geometry" />
@@ -345,6 +357,36 @@
         </mxCell>
         <mxCell id="WFDlAAHb3bw9WzpUW1FV-74" value="&lt;div&gt;ATTACKS AGAINST END-TO-END AUTOENCODER&lt;/div&gt;&lt;div&gt;COMMUNICATION SYSTEMS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="3493.13" y="1010" width="208.75" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsUmsVvnLOJx5vo8wTvV-2" target="tsUmsVvnLOJx5vo8wTvV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-2" value="FEATURE POISONING" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-4015" y="1199" width="275" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tsUmsVvnLOJx5vo8wTvV-3" target="tsUmsVvnLOJx5vo8wTvV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-3" value="LABEL POISONING" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-4330" y="1199" width="275" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-4" value="LOGIC CORRUPTION" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-3700" y="1199" width="275" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-9" value="OPTIMIZATION-BASED ATTACKS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-2830" y="1830" width="275" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tsUmsVvnLOJx5vo8wTvV-9" target="tsUmsVvnLOJx5vo8wTvV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-12" value="POISONING ATTACKS AGAINST SUPPORT VECTOR MACHINES" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-3945" y="1450" width="135" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-13" value="&lt;span&gt;CYCLICAL ADVERSARIAL ATTACKS (CA)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-3625" y="1480" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tsUmsVvnLOJx5vo8wTvV-14" value="POISONING ATTACKS FOR GENERAL MULTI-CLASS MODELS SYNTHETIC REDUCED NEAREST NEIGHBORS" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-4255" y="1390" width="125" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
